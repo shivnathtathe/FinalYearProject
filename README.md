@@ -3,7 +3,7 @@
 ## Project Setup Guide
 
 ### Cloning the Repository
-`git clone https://github.com/shivnathtathe/FinalYearProject.git`
+```git clone https://github.com/shivnathtathe/FinalYearProject.git
 
 ### Setting Up the Environment
 cd FinalYearProject
